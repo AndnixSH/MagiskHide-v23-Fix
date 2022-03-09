@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "23.0",
+    "versionCode": "23000",
+    "link": "https://repo.andnixsh.com/magisk-v23/magisk-v23-app.apk",
+    "note": "https://repo.andnixsh.com/magisk-v23/readme.md"
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://repo.andnixsh.com/magisk-v23/magisk-v23-stub.apk"
+  }
+}
